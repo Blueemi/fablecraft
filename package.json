@@ -1,0 +1,9 @@
+{
+  "name": "fablecraft",
+  "version": "1.0.0",
+  "description": "A from-scratch voxel sandbox for the web. No external assets - every texture, sound and font is generated in code.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
